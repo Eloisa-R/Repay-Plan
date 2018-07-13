@@ -10,7 +10,7 @@
         </p>
 
         <p>
-            <label for="amount">Loan Amount (€)</label>
+            <label for="amount" class="amount">Loan Amount (€)</label>
             <input type="number" name="amount" id="amount" placeholder="0" v-model="amount">
         </p>
         <p>
