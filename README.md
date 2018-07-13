@@ -14,7 +14,7 @@ to alter the calculations
 
 Download or clone the repository to your local machine. Then go to the root directory of this repo and run:
 
-mvn install clean
+mvn clean install
 
 After the build succeeds, run:
 
